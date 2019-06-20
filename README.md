@@ -1,4 +1,4 @@
-# 2-Classification-of-jobs-postings-data-analytics -of-jobs-postings-data-analytics
+# 2-Classification-of-jobs-postings-data-analytics
 Two main objectives:
 
 Determine the industry factors that are most important in predicting the salary amounts for these data.
